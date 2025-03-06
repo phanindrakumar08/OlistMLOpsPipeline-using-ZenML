@@ -1,12 +1,13 @@
-# OlistMLOpsPipeline
+# OlistMLOpsPipeline using ZenML 
 
-[![ZenML Pipeline](link_to_your_zenml_pipeline_diagram_image.png)](link_to_your_zenml_dashboard)
+![image](https://github.com/user-attachments/assets/c96ce926-8868-48d3-9cde-75288aa65022)
+
 
 This repository showcases a practical Machine Learning Operations (MLOps) pipeline built around the Brazilian Olist e-commerce dataset. The project focuses on demonstrating robust MLOps practices using ZenML, MLflow, and clean, modular code.
 
 ## Project Overview
 
-This project utilizes the publicly available Olist Store dataset, which contains information on 100k orders from 2016 to 2018 across multiple marketplaces in Brazil. We've focused on building a streamlined MLOps pipeline to ingest, clean, train, and evaluate a Linear Regression model, with an emphasis on automation and reproducibility.
+This project utilizes the publicly available Olist Store dataset from Kaggle(https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce/data), which contains information on 100k orders from 2016 to 2018 across multiple marketplaces in Brazil. I have focused on building a streamlined MLOps pipeline to ingest, clean, train, and evaluate a Linear Regression model, with an emphasis on automation and reproducibility.
 
 **Key Features:**
 
@@ -57,11 +58,3 @@ The dataset is a real-world commercial dataset provided by Olist Store, anonymiz
 ## Contributing
 
 Contributions are welcome! Please feel free to submit pull requests or open issues to suggest improvements or report bugs.
-
-## License
-
-[Your License]
-
-## Contact
-
-[Your Name/Contact Information]
