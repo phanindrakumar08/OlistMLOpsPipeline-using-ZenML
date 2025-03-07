@@ -17,7 +17,7 @@ This project utilizes the publicly available Olist Store dataset from Kaggle(htt
 * **Data Preprocessing:** Numerical data extraction and cleaning based on Exploratory Data Analysis (EDA) findings.
 * **Model Training:** Training a Linear Regression model for predictive insights.
 * **Model Evaluation:** Comprehensive evaluation using metrics like R2 score, MSE, and RMSE.
-* **ZenML Dashboard:** Detailed insights into pipeline execution and artifact tracking.
+* **ZenML Dashboard:** Detailed insights into pipeline execution and artifact tracking
 
 ## Getting Started
 
