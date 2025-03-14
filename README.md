@@ -3,7 +3,7 @@
 ![image](https://github.com/user-attachments/assets/c96ce926-8868-48d3-9cde-75288aa65022)
 
 
-This----------- repository showcases a practical Machine Learning Operations (MLOps) pipeline built around the Brazilian Olist e-commerce dataset. The project focuses on demonstrating robust MLOps practices using ZenML, MLflow, and clean, modular code.
+This repository showcases a practical Machine Learning Operations (MLOps) pipeline built around the Brazilian Olist e-commerce dataset. The project focuses on demonstrating robust MLOps practices using ZenML, MLflow, and clean, modular code.
 
 ## Project Overview
 
